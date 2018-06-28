@@ -1,5 +1,5 @@
 /* source: https://github.com/avinoamr/bootstrap-carousel-swipe */
-/* changes from Tej Energy team */
+/* changes from Roddur team */
 +function ($) {
     'use strict';
 
